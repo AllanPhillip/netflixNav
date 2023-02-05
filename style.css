@@ -105,6 +105,11 @@ body {
     text-transform: uppercase;
 }
 
+.list li a:hover {
+    color: blue;
+
+}
+
 .list ul {
     list-style-type: none;
     padding-left: 20px;
